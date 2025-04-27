@@ -5,7 +5,7 @@
 }
 .top-container{
   width: 100%;
-  background-image: url(image/image1.png);
+  background-image: url(image1.png);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -41,7 +41,7 @@
   line-height: 18px;
 }
 .third-container{
-  background-image: url(image/image2.png);
+  background-image: url(image2.png);
   height: 300px;
   width: 100%;
   background-size: cover;
@@ -85,7 +85,7 @@
   padding-bottom: 50px;
 }
 .fifth-container{
-  background-image: url(image/image3.png);
+  background-image: url(image3.png);
   background-position:center;
   background-size: cover;
   background-attachment: fixed;
@@ -129,7 +129,7 @@ background-color: rgb(89, 89, 89);
 padding-bottom: 50px;
 }
 .last-container{
-  background-image: url(image/image1.png);
+  background-image: url(image1.png);
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
